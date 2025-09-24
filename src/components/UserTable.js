@@ -1,6 +1,7 @@
 import React from 'react';
 import './UserTable.css';
 
+
 const UserTable = ({
   users, loading, onEdit, onDelete, onAdd, searchTerm, onSearchChange,
   currentPage, itemsPerPage, onPageChange, onItemsPerPageChange,
