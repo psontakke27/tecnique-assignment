@@ -17,3 +17,4 @@ This project uses **React, Axios, and JSONPlaceholder API** for demonstration.
 - **Frontend**: React.js, Axios, React Hot Toast
 - **Backend (Mock API)**: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
 - **Styling**: CSS3
+## github link- "https://github.com/psontakke27/tecnique-assignment"
